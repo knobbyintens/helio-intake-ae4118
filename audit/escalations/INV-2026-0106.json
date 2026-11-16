@@ -1,0 +1,11 @@
+{
+  "invoice_number": "INV-2026-0106",
+  "vendor_name": "Vertex IT Solutions",
+  "amount": 4600.0,
+  "due_date": "2026-11-30",
+  "po_number": "PO-VX-7788",
+  "status": "HOLD",
+  "priority": "normal",
+  "reason_code": "VENDOR_NOT_APPROVED",
+  "details": "Vendor Vertex IT Solutions is 'blocked' in the vendor master. Invoice INV-2026-0106 must be held until the vendor's status is resolved and approved."
+}

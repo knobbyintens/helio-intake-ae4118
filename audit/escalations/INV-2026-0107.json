@@ -1,0 +1,11 @@
+{
+  "invoice_number": "INV-2026-0107",
+  "vendor_name": "Summit Facilities Group",
+  "amount": 12500.0,
+  "due_date": "2026-11-23",
+  "po_number": "PO-SF-2201",
+  "status": "MANUAL_REVIEW",
+  "priority": "urgent",
+  "reason_code": "OVER_AUTO_APPROVE_LIMIT",
+  "details": "Invoice INV-2026-0107 from Summit Facilities Group totals $12,500.00, exceeding the vendor's $7,500.00 auto-approval limit and the $10,000.00 urgent threshold. Manual review is required."
+}
